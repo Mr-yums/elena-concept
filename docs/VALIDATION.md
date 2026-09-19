@@ -20,3 +20,7 @@ Titres dimensionnés selon la largeur de chaque carte, titre spectacle recentré
 ## Bas de page et réseaux — 19 septembre 2026
 
 Sections spectacle/contact harmonisées : grille, titres, espacements et couleurs. Réseaux présentés en trois grands liens avec icônes SVG, identifiants et invitations explicites ; pile verticale sur mobile. Contrôles Chromium à 320, 390, 760, 768, 1024, 1440 et 3440 px : aucun débordement horizontal, aucune erreur JavaScript. Destinations des trois liens relues et identiques aux liens originaux. Nouvelle capture `reseaux.png`, capture mobile et kit actualisés.
+
+## En-tête et navigation — 19 septembre 2026
+
+Trois icônes de réseaux ajoutées à côté de la billetterie, avec les mêmes destinations que le contact et des noms accessibles. Menu agrandi de 13 px à 18 px sur ordinateur et 20 px dès 1800 px ; disposition sur deux lignes pour tablette et mobile. Contrôles Chromium à 320, 390, 620, 621, 768, 1000, 1001, 1024, 1101, 1200, 1440, 1920 et 3440 px : aucun débordement horizontal, aucun chevauchement entre menu et actions, trois icônes présentes et aucune erreur JavaScript. Captures ordinateur et mobile actualisées.

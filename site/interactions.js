@@ -7,7 +7,7 @@
     if (!event.isTrusted || event.pointerType !== 'touch' || !touchLayout.matches || reducedMotion.matches) return;
     if (typeof navigator.vibrate !== 'function') return;
     if (!(event.target instanceof Element)) return;
-    if (!event.target.closest('a.card, a.button, a.tickets, a.text-link, .socials a')) return;
+    if (!event.target.closest('a.card, a.button, a.tickets, a.text-link, .socials a, .header-socials a')) return;
     const now = performance.now();
     if (now - lastPulse < 400) return;
     lastPulse = now;
