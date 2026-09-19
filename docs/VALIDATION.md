@@ -24,3 +24,7 @@ Sections spectacle/contact harmonisées : grille, titres, espacements et couleur
 ## En-tête et navigation — 19 septembre 2026
 
 Trois icônes de réseaux ajoutées à côté de la billetterie, avec les mêmes destinations que le contact et des noms accessibles. Menu agrandi de 13 px à 18 px sur ordinateur et 20 px dès 1800 px ; disposition sur deux lignes pour tablette et mobile. Contrôles Chromium à 320, 390, 620, 621, 768, 1000, 1001, 1024, 1101, 1200, 1440, 1920 et 3440 px : aucun débordement horizontal, aucun chevauchement entre menu et actions, trois icônes présentes et aucune erreur JavaScript. Captures ordinateur et mobile actualisées.
+
+## Favicon et crédits — 19 septembre 2026
+
+Monogramme E original en SVG, déclinaisons PNG 32 px et icône Apple 180 px ; références relatives compatibles GitHub Pages, accueil et dossier. Ajout des mentions « © Elena Nagapetyan. Tous droits réservés. » et « Conception par Mr.yums ». Contrôles Chromium à 320, 390, 768, 1440 et 3440 px sans débordement horizontal ; les trois icônes répondent HTTP 200. Icône et pied de page inspectés visuellement. Captures et kit actualisés.

@@ -202,3 +202,8 @@ header .tickets span{margin-left:16px}
  header .tickets{font-size:14px;padding:12px 15px}.portrait{top:135px}
 }
 @media(hover:none){.header-social:hover{transform:none}.header-social:active{background:#44303b}}
+
+footer{flex-wrap:wrap}
+.footer-credits{flex:0 0 100%;display:flex;justify-content:space-between;align-items:center;gap:14px;padding-top:22px;border-top:1px solid #ffffff14;color:#c5bbc3;font-size:12px;line-height:1.6}
+.footer-credits strong{font-weight:600;color:#f7f4ef}
+@media(max-width:620px){.footer-credits{flex-direction:column;align-items:flex-start;gap:7px}}
