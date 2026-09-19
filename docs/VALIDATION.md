@@ -16,3 +16,7 @@ Aucun message envoyé à Elena et aucune modification de son site d’origine.
 ## Lisibilité des cartes — 19 septembre 2026
 
 Titres dimensionnés selon la largeur de chaque carte, titre spectacle recentré verticalement dans sa moitié gauche, accroches et CTA agrandis et plus contrastés. Contrôles Chromium à 320, 390, 620, 768, 1024, 1440, 1920 et 3440 px : aucun débordement horizontal, accroche du livre séparée du lien d’achat. Captures et kit de contact régénérés. L’archive Docker v1.0.0 reste le snapshot initial ; les sources Docker du dépôt suivent la nouvelle démo.
+
+## Bas de page et réseaux — 19 septembre 2026
+
+Sections spectacle/contact harmonisées : grille, titres, espacements et couleurs. Réseaux présentés en trois grands liens avec icônes SVG, identifiants et invitations explicites ; pile verticale sur mobile. Contrôles Chromium à 320, 390, 760, 768, 1024, 1440 et 3440 px : aucun débordement horizontal, aucune erreur JavaScript. Destinations des trois liens relues et identiques aux liens originaux. Nouvelle capture `reseaux.png`, capture mobile et kit actualisés.

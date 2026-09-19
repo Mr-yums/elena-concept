@@ -48,6 +48,7 @@ Les archives de collecte, données locales et secrets ne font pas partie du dép
 - [Vue ordinateur](docs/screenshots/desktop.png)
 - [Vue mobile](docs/screenshots/mobile.png)
 - [Les trois cartes](docs/screenshots/cartes.png)
+- [Réseaux sociaux](docs/screenshots/reseaux.png)
 - [Prompt du portrait](docs/portrait-prompt.txt)
 - [Prompt de la scène](docs/scene-prompt.txt)
 - [Site d’origine](https://www.elenanagapetyan.com/)
