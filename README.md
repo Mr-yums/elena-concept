@@ -23,7 +23,7 @@ Les portraits et scènes sont des interprétations générées par IA, pas des p
 
 ## Docker prêt à télécharger
 
-La [release v1.1.0](https://github.com/Mr-yums/elena-concept/releases/tag/v1.1.0) contient l’image Linux amd64, son empreinte SHA256 et le fichier Compose. Les deux ambiances et les dernières retouches sont incluses.
+La [release v1.1.1](https://github.com/Mr-yums/elena-concept/releases/tag/v1.1.1) contient l’image Linux amd64, son empreinte SHA256 et le fichier Compose. Les deux ambiances et les dernières retouches sont incluses.
 
 ## Lancer avec Docker
 

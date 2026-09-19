@@ -52,3 +52,7 @@ Portrait du hero retourné horizontalement via CSS ; prénom de fond décalé ve
 ## Livraison Docker 1.1.0 et captures — 19 septembre 2026
 
 Image Docker 1.1.0 reconstruite avec le site actuel (deux thèmes, portrait retourné), conteneur local sain sur 8796. HTML/CSS/JS servis identiques aux sources publiées. Captures complètes depuis Docker : mobile tactile 390×844, tablette tactile 820×1180, ordinateur 1440×1000, dans les deux ambiances ; aucune erreur JavaScript ni débordement horizontal. Archive Linux amd64 exportée avec empreintes SHA256 vérifiées et Compose de téléchargement.
+
+## Cartes sociales beiges — 19 septembre 2026
+
+Palette uniforme ivoire/caramel, icônes contrastées et CTA séparé par un filet. Modification limitée au thème beige. Rendu inspecté à 390 et 1440 px ; contrôle sans débordement à 320, 390, 820, 1440 et 3440 px. Captures beige mobile/tablette/PC actualisées.

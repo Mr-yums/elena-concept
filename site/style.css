@@ -297,11 +297,13 @@ html[data-theme="beige"]{color-scheme:light;--muted:#69584d;--surface:#f0e4d5}
 [data-theme="beige"] .story::before,[data-theme="beige"] .contact::before{background:linear-gradient(90deg,#986b4166,#76533226 35%,#76533212)}
 [data-theme="beige"] .story .eyebrow,[data-theme="beige"] .contact .eyebrow{color:#745641}
 [data-theme="beige"] .contact-intro{color:#49372c}
-[data-theme="beige"] .socials .social-link{--social-color:#943f61;background:linear-gradient(135deg,#f7e9dc,#ead9c5);border-color:#80634333;color:#382b24}
-[data-theme="beige"] .socials .social-youtube{--social-color:#a63e34;background:linear-gradient(135deg,#f3e1ce,#e5cdb4)}
-[data-theme="beige"] .socials .social-facebook{--social-color:#395d86;background:linear-gradient(135deg,#eee5d7,#dfd4c3)}
-[data-theme="beige"] .social-icon{background:#fff9ed88;border-color:#76533222}[data-theme="beige"] .social-handle{color:#68554a}
-[data-theme="beige"] .socials .social-link:hover{color:#30251f;border-color:var(--social-color)}
+[data-theme="beige"] .socials .social-link{--social-color:#79513b;background:#fff9f0;border:1px solid #cdb79c;color:#35271e;box-shadow:0 5px 18px #63472809;transition:transform .2s,border-color .2s,box-shadow .2s,background .2s}
+[data-theme="beige"] .social-icon{background:#79513b;border:1px solid #79513b;color:#fff9f0;border-radius:12px}
+[data-theme="beige"] .social-name{color:#35271e}[data-theme="beige"] .social-handle{color:#705c4b}
+[data-theme="beige"] .social-arrow{color:#79513b}
+[data-theme="beige"] .social-invite{grid-column:1/-1;border-top:1px solid #decbb4;padding-top:17px;margin-top:22px;color:#79513b;justify-content:space-between;font-weight:600}
+[data-theme="beige"] .socials .social-link:hover,[data-theme="beige"] .socials .social-link:focus-visible{background:#fffcf7;color:#35271e;border-color:#997457;box-shadow:0 9px 24px #63472814}
+@media(hover:none){[data-theme="beige"] .socials .social-link:active{background:#f3e5d2}}
 [data-theme="beige"] .contact-mail{border-color:#76533233;color:#69584d}[data-theme="beige"] .contact .email{color:#49372c}
 [data-theme="beige"] .site-footer{background:#e5d5c1;border-color:#76533226;color:#69584d}
 [data-theme="beige"] .footer-identity .brand,[data-theme="beige"] .footer-signature strong{color:#382b24}
