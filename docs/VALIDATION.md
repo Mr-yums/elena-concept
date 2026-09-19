@@ -36,3 +36,7 @@ Identité avec monogramme, fond bordeaux discret, grille de lecture et mentions 
 ## Carte du livre — 19 septembre 2026
 
 Suppression du nom répété au-dessus du titre, titre et accroche agrandis, bloc élargi et repositionné. Contrôles Chromium à 320, 390, 620, 768, 1000, 1024, 1440, 1920 et 3440 px : pas de débordement horizontal, espace préservé entre texte et CTA. Captures de la carte inspectées à 320 et 1440 px. Captures et kit actualisés.
+
+## Harmonisation globale — 19 septembre 2026
+
+Hero plus compact sur ordinateur, proportions titre/portrait rééquilibrées, fonds continus, titres et espacements cohérents, séparateurs alignés sur le contenu, boutons et rayons harmonisés. Cartes verticales aussi sur tablette. Contrôles Chromium à 320, 390, 620, 768, 1000, 1024, 1101, 1440, 1920 et 3440 px : aucun débordement horizontal, pas de chevauchement texte/CTA dans le livre ni actions/repères dans le hero. Captures complètes inspectées à 390 et 1440 px ; aucune erreur JavaScript durant les nouvelles captures. Quatre captures et kit actualisés.
