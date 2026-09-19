@@ -108,3 +108,33 @@ header,.section,footer{padding-inline:var(--page-gutter)}
  .stage .card-title{font-size:31px}.stage .card-title em{font-size:40px}
  .video .video-type{font-size:27px}.video .video-type em{font-size:33px}
 }
+/* Dimensionner les textes selon la carte, pas selon la largeur de l'écran. */
+.card{container-type:inline-size}
+.card .card-art{height:clamp(260px,65cqw,310px);min-height:0;aspect-ratio:auto}
+.card .pill{font-size:11px;letter-spacing:1px;padding:6px 9px;top:16px;left:6%}
+.stage .card-title{left:7%;top:49%;bottom:auto;width:57%;transform:translateY(-50%);font-size:clamp(32px,10cqw,48px);line-height:1.08;letter-spacing:-1.3px}
+.stage .card-title em{font-size:1.14em;white-space:nowrap}
+.stage .scene-shade{background:linear-gradient(0deg,#100909f2,transparent 40%),linear-gradient(90deg,#100909a6 0%,#10090959 40%,transparent 70%)}
+.card .card-cta{left:6%;right:6%;bottom:17px;font-size:13px;font-weight:600;min-height:34px;padding-top:11px;line-height:1.4}
+.card .cta-action{font-size:12px;color:#f1e6ee}
+.card .card-caption h3{font-size:16px}.card .card-caption p{font-size:13px;line-height:1.5;color:#b6aeb8}
+.book .book-copy{left:6%;top:23%;width:45%}
+.book .book-copy>span{font-size:11px;line-height:1.45;letter-spacing:1.3px;color:#4d3932}
+.book .book-copy strong{font-size:clamp(25px,6.8cqw,32px);line-height:1.08;margin:12px 0;letter-spacing:-.7px}
+.book .book-copy strong>span{white-space:nowrap}
+.book .book-copy em{font-size:1.14em;color:#772d3e}
+.book .book-copy small{font-size:clamp(13px,3.2cqw,15px);line-height:1.4;font-weight:500;color:#48362f}
+.book .book-object{right:7%;top:7%;height:63%}
+.book .card-cta{color:#3e2822;border-color:#67443955}
+.video .video-type{left:6%;bottom:76px;font-size:clamp(28px,7.6cqw,35px);line-height:1.12}
+.video .video-type em{font-size:1.13em}
+.video .play{bottom:136px}
+.video .video-shade{background:linear-gradient(0deg,#101017 0%,#101017ed 25%,#10101799 50%,transparent 85%)}
+@container(max-width:330px){
+ .card .pill{font-size:10px}
+ .card .card-cta{font-size:12px}.card .cta-action{font-size:11px}
+ .book .book-copy strong{font-size:23px}.book .book-copy>span{font-size:10px}.book .book-copy small{font-size:12px}
+ .book .book-object{right:4%;height:57%;top:10%}
+ .stage .card-title{font-size:30px}
+}
+.book .book-copy{top:20%}.book .book-copy strong{margin:8px 0}

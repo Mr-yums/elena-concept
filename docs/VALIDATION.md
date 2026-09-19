@@ -12,3 +12,7 @@ Intervention : Sol (GPT-6). Préparation d’une distribution publique statique,
 - Contrôles précédents des interactions : appel de vibration unique de 8 ms au toucher simulé ; aucun appel à la souris, en réduction des animations ou sans API disponible. Sensation matérielle non testée.
 
 Aucun message envoyé à Elena et aucune modification de son site d’origine.
+
+## Lisibilité des cartes — 19 septembre 2026
+
+Titres dimensionnés selon la largeur de chaque carte, titre spectacle recentré verticalement dans sa moitié gauche, accroches et CTA agrandis et plus contrastés. Contrôles Chromium à 320, 390, 620, 768, 1024, 1440, 1920 et 3440 px : aucun débordement horizontal, accroche du livre séparée du lien d’achat. Captures et kit de contact régénérés. L’archive Docker v1.0.0 reste le snapshot initial ; les sources Docker du dépôt suivent la nouvelle démo.
