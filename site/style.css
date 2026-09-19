@@ -314,3 +314,9 @@ html[data-theme="beige"]{color-scheme:light;--muted:#69584d;--surface:#f0e4d5}
 @media(max-width:1000px){[data-theme="beige"] .hero-shade{background:linear-gradient(0deg,#f5ecdf 5%,#f5ecdfd9 40%,transparent 85%),linear-gradient(90deg,#f5ecdf55,transparent)}}
 [data-theme="beige"] .video .play{color:#fff}
 @media(max-width:1000px){[data-theme="beige"] .portrait{opacity:1}[data-theme="beige"] .hero-shade{background:linear-gradient(0deg,#f5ecdf 5%,#f5ecdfeb 38%,#f5ecdf55 57%,transparent 74%),linear-gradient(90deg,#f5ecdf99,transparent 70%)}}
+
+/* Le portrait regarde vers le titre ; le prénom respire à sa gauche. */
+.portrait{transform:scaleX(-1)}
+@media(min-width:1101px){.backword{left:calc(50% - 140px)}}
+@media(min-width:621px) and (max-width:1100px){.backword{left:calc(50% - 240px)}}
+@media(max-width:620px){.backword{left:-6%}}

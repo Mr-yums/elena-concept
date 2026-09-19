@@ -44,3 +44,7 @@ Hero plus compact sur ordinateur, proportions titre/portrait rééquilibrées, f
 ## Deux ambiances — 19 septembre 2026
 
 Palette sombre conservée et variante beige (ivoire, sable, caramel, brun). Sélecteur avec état accessible, choix mémorisé localement, URL partageable `?theme=dark` ou `?theme=beige` prioritaire sur la préférence. Chargement initial du thème avant la feuille CSS. Contrôles Chromium des deux palettes à 320, 390, 620, 768, 1000, 1024, 1440, 1920 et 3440 px : aucun débordement ni chevauchement des éléments contrôlés (texte/CTA du livre, actions/repères du hero et bandeau/en-tête). Activation clavier, état aria-pressed, mémorisation et priorité du lien vérifiés ; aucune erreur JavaScript. Captures beige ordinateur/mobile ajoutées au kit.
+
+## Orientation du portrait — 19 septembre 2026
+
+Portrait du hero retourné horizontalement via CSS ; prénom de fond décalé vers la gauche avec ajustement par largeur d’écran. Deux palettes contrôlées à 320, 390, 768, 1024, 1440, 1920 et 3440 px : transformation miroir effective et aucun débordement horizontal. Cadrages beige ordinateur et sombre mobile inspectés ; captures des deux ambiances et kit actualisés.
