@@ -32,3 +32,7 @@ Monogramme E original en SVG, déclinaisons PNG 32 px et icône Apple 180 px ; r
 ## Harmonisation du pied de page — 19 septembre 2026
 
 Identité avec monogramme, fond bordeaux discret, grille de lecture et mentions plus lisibles. Liens regroupés, cibles tactiles de 44 px minimum et retour en haut. Vérifications Chromium à 320, 390, 620, 768, 1000, 1024, 1440, 1920 et 3440 px : aucun débordement horizontal ; cibles de liens vérifiées et retour en haut fonctionnel. Captures du footer inspectées sur ordinateur et mobile. Kit actualisé.
+
+## Carte du livre — 19 septembre 2026
+
+Suppression du nom répété au-dessus du titre, titre et accroche agrandis, bloc élargi et repositionné. Contrôles Chromium à 320, 390, 620, 768, 1000, 1024, 1440, 1920 et 3440 px : pas de débordement horizontal, espace préservé entre texte et CTA. Captures de la carte inspectées à 320 et 1440 px. Captures et kit actualisés.

@@ -213,3 +213,8 @@ header .tickets span{margin-left:16px}
 .back-to-top{display:inline-flex;align-items:center;gap:15px;min-height:44px;padding:8px 12px;border-radius:6px;color:#e3d7df}.back-to-top>span{color:#f17785}.back-to-top:hover{background:#ffffff08;color:#fff}
 @media(max-width:1000px){.footer-main{grid-template-columns:1fr auto;gap:22px}.site-footer .footer-note{grid-column:1;grid-row:2}.site-footer .footer-links{grid-column:2;grid-row:1/3}.footer-credits{flex-wrap:wrap;gap:8px 24px}}
 @media(max-width:620px){.site-footer{padding-top:32px;padding-bottom:24px}.footer-main{grid-template-columns:minmax(0,1fr);gap:22px;padding-bottom:24px}.site-footer .footer-note{grid-column:auto;grid-row:auto;font-size:13px}.site-footer .footer-links{grid-column:auto;grid-row:auto;flex-direction:row;flex-wrap:wrap;gap:6px 14px}.footer-links a{padding-left:0;gap:14px}.footer-credits{flex-direction:column;align-items:flex-start;gap:12px;font-size:12px}.footer-signature{margin-left:0}.back-to-top{padding-left:0}.footer-identity .brand{font-size:27px}}
+
+/* Le titre du livre occupe la place libérée par la répétition du nom. */
+.book .book-copy{left:6%;top:27%;width:49%}
+.book .book-copy strong{font-size:clamp(26px,7.7cqw,37px);line-height:1.12;margin:0 0 17px;letter-spacing:-.8px}
+.book .book-copy small{font-size:clamp(13px,3.6cqw,17px);line-height:1.5}
