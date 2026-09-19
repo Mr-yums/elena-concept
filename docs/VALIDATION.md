@@ -28,3 +28,7 @@ Trois icônes de réseaux ajoutées à côté de la billetterie, avec les mêmes
 ## Favicon et crédits — 19 septembre 2026
 
 Monogramme E original en SVG, déclinaisons PNG 32 px et icône Apple 180 px ; références relatives compatibles GitHub Pages, accueil et dossier. Ajout des mentions « © Elena Nagapetyan. Tous droits réservés. » et « Conception par Mr.yums ». Contrôles Chromium à 320, 390, 768, 1440 et 3440 px sans débordement horizontal ; les trois icônes répondent HTTP 200. Icône et pied de page inspectés visuellement. Captures et kit actualisés.
+
+## Harmonisation du pied de page — 19 septembre 2026
+
+Identité avec monogramme, fond bordeaux discret, grille de lecture et mentions plus lisibles. Liens regroupés, cibles tactiles de 44 px minimum et retour en haut. Vérifications Chromium à 320, 390, 620, 768, 1000, 1024, 1440, 1920 et 3440 px : aucun débordement horizontal ; cibles de liens vérifiées et retour en haut fonctionnel. Captures du footer inspectées sur ordinateur et mobile. Kit actualisé.
