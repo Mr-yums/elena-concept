@@ -1,7 +1,7 @@
 services:
   demo:
     build: .
-    image: elena-concept:1.0.0
+    image: elena-concept:1.1.0
     ports:
       - "${BIND_ADDRESS:-127.0.0.1}:${PORT:-8088}:8080"
     restart: unless-stopped

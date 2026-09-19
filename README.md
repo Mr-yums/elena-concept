@@ -2,7 +2,7 @@
 
 Une direction visuelle cinéma pour l’univers d’Elena Nagapetyan : une entrée immersive, trois cartes pour le spectacle, le livre et YouTube, et un parcours vertical sur mobile.
 
-**[Ouvrir la démo](https://mr-yums.github.io/elena-concept/)** · [Sources des contenus](https://mr-yums.github.io/elena-concept/dossier.html)
+**[Version beige](https://mr-yums.github.io/elena-concept/?theme=beige)** · **[Version sombre](https://mr-yums.github.io/elena-concept/?theme=dark)** · [Sources des contenus](https://mr-yums.github.io/elena-concept/dossier.html)
 
 ![Aperçu ordinateur](docs/screenshots/desktop.png)
 
@@ -20,6 +20,10 @@ Les portraits et scènes sont des interprétations générées par IA, pas des p
 - Impulsion tactile facultative de 8 ms si le navigateur et l’appareil le permettent ; aucune vibration au scroll.
 - Aucun formulaire de collecte ni outil de suivi intégré.
 - Demande de non-indexation ; elle ne rend pas les fichiers privés.
+
+## Docker prêt à télécharger
+
+La [release v1.1.0](https://github.com/Mr-yums/elena-concept/releases/tag/v1.1.0) contient l’image Linux amd64, son empreinte SHA256 et le fichier Compose. Les deux ambiances et les dernières retouches sont incluses.
 
 ## Lancer avec Docker
 
@@ -47,6 +51,10 @@ Les archives de collecte, données locales et secrets ne font pas partie du dép
 
 - [Vue ordinateur](docs/screenshots/desktop.png)
 - [Vue mobile](docs/screenshots/mobile.png)
+- [Vue tablette](docs/screenshots/tablet.png)
+- [Beige — ordinateur](docs/screenshots/beige-desktop.png)
+- [Beige — tablette](docs/screenshots/beige-tablet.png)
+- [Beige — mobile](docs/screenshots/beige-mobile.png)
 - [Les trois cartes](docs/screenshots/cartes.png)
 - [Réseaux sociaux](docs/screenshots/reseaux.png)
 - [Prompt du portrait](docs/portrait-prompt.txt)
