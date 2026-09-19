@@ -48,3 +48,7 @@ Palette sombre conservée et variante beige (ivoire, sable, caramel, brun). Sél
 ## Orientation du portrait — 19 septembre 2026
 
 Portrait du hero retourné horizontalement via CSS ; prénom de fond décalé vers la gauche avec ajustement par largeur d’écran. Deux palettes contrôlées à 320, 390, 768, 1024, 1440, 1920 et 3440 px : transformation miroir effective et aucun débordement horizontal. Cadrages beige ordinateur et sombre mobile inspectés ; captures des deux ambiances et kit actualisés.
+
+## Livraison Docker 1.1.0 et captures — 19 septembre 2026
+
+Image Docker 1.1.0 reconstruite avec le site actuel (deux thèmes, portrait retourné), conteneur local sain sur 8796. HTML/CSS/JS servis identiques aux sources publiées. Captures complètes depuis Docker : mobile tactile 390×844, tablette tactile 820×1180, ordinateur 1440×1000, dans les deux ambiances ; aucune erreur JavaScript ni débordement horizontal. Archive Linux amd64 exportée avec empreintes SHA256 vérifiées et Compose de téléchargement.
