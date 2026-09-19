@@ -40,3 +40,7 @@ Suppression du nom répété au-dessus du titre, titre et accroche agrandis, blo
 ## Harmonisation globale — 19 septembre 2026
 
 Hero plus compact sur ordinateur, proportions titre/portrait rééquilibrées, fonds continus, titres et espacements cohérents, séparateurs alignés sur le contenu, boutons et rayons harmonisés. Cartes verticales aussi sur tablette. Contrôles Chromium à 320, 390, 620, 768, 1000, 1024, 1101, 1440, 1920 et 3440 px : aucun débordement horizontal, pas de chevauchement texte/CTA dans le livre ni actions/repères dans le hero. Captures complètes inspectées à 390 et 1440 px ; aucune erreur JavaScript durant les nouvelles captures. Quatre captures et kit actualisés.
+
+## Deux ambiances — 19 septembre 2026
+
+Palette sombre conservée et variante beige (ivoire, sable, caramel, brun). Sélecteur avec état accessible, choix mémorisé localement, URL partageable `?theme=dark` ou `?theme=beige` prioritaire sur la préférence. Chargement initial du thème avant la feuille CSS. Contrôles Chromium des deux palettes à 320, 390, 620, 768, 1000, 1024, 1440, 1920 et 3440 px : aucun débordement ni chevauchement des éléments contrôlés (texte/CTA du livre, actions/repères du hero et bandeau/en-tête). Activation clavier, état aria-pressed, mémorisation et priorité du lien vérifiés ; aucune erreur JavaScript. Captures beige ordinateur/mobile ajoutées au kit.
