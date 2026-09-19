@@ -1,0 +1,6 @@
+**
+!Dockerfile
+!ops/
+!ops/nginx.conf
+!site/
+!site/**

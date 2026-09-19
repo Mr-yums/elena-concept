@@ -1,0 +1,7 @@
+archive/
+node_modules/
+artifacts/
+public/
+.delivery/
+*.tar.gz
+ops/build-site.py
